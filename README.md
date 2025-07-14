@@ -1,5 +1,4 @@
-# File-Encryption-Decryption-Tool
-# Encryptor - Windows Application
+# File-Encryption-Decryption-Windows Application
 
 ![DashBoard Screenshot](Dashboard.png)
 
